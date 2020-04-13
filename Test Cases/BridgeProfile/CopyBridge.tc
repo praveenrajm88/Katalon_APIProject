@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CopyBridge</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07c5b06c-d96e-4bcd-ba16-b39286a443d3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>34331923-c3f9-4d43-989b-8ca468087f35</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

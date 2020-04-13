@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateNewBridge</name>
+   <tag></tag>
+   <comment>AlertText</comment>
+   <testCaseGuid>956444b2-9cc5-437f-af30-7a882ed3b769</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>084efacf-62bf-4c0f-9481-fdef3f2671fd</id>
+      <masked>false</masked>
+      <name>Quarter</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3b5f2b1c-d799-4ef6-9e56-052f6b180a3d</id>
+      <masked>false</masked>
+      <name>Commodity</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5014c646-d29e-401b-a9a3-5717331d3865</id>
+      <masked>false</masked>
+      <name>CSGISGServer</name>
+   </variable>
+</TestCaseEntity>

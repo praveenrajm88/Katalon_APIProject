@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>AutoBridge</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>d73c72d8-bdb9-45e5-9cad-56438a197344</testSuiteGuid>
+   <testCaseLink>
+      <guid>dbfdf2cc-6cf0-44c0-ba9e-d46883ba9509</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CreateBridge/CreateNewBridge</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>99a61478-18bd-4e24-99dd-84cfd3af269e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/AutoBridgeDataFile/NewCreateBridgeData</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>99a61478-18bd-4e24-99dd-84cfd3af269e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Quarter</value>
+         <variableId>084efacf-62bf-4c0f-9481-fdef3f2671fd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>99a61478-18bd-4e24-99dd-84cfd3af269e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Commodity</value>
+         <variableId>3b5f2b1c-d799-4ef6-9e56-052f6b180a3d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>99a61478-18bd-4e24-99dd-84cfd3af269e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CSGISGServer</value>
+         <variableId>5014c646-d29e-401b-a9a3-5717331d3865</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

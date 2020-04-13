@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BridgeProfileAlertMsgPopup</name>
+   <tag></tag>
+   <elementGuidId>6e427ac3-a8d6-43a6-972d-a0e5ef8ad0ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id=&quot;mat-dialog-3&quot;]/app-dialog/div/div/mat-dialog-actions/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

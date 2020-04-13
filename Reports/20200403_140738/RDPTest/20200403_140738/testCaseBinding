@@ -1,0 +1,2 @@
+{"testCaseName":"Test Cases/RDPAutomation/RDPColobration_Replenishment","testCaseId":"Test Cases/RDPAutomation/RDPColobration_Replenishment","bindedValues":{"Retailer":"\u0027BR - Cnova\u0027","Wave":"\u0027Wave 2\u0027","ToWeek":"\u0027JUL W26 20 (FY21)\u0027","Platform":"\u0027Jasmine BSW\u0027","FromWeek":"\u0027JUN W19 20 (FY21)\u0027","Product":"\u0027Desktops\u0027","Season":"\u0027Back to School 2016\u0027","PRN":"\u0027abcd\u0027"}}
+{"testCaseName":"Test Cases/RDPAutomation/RDP_HomePage","testCaseId":"Test Cases/RDPAutomation/RDP_HomePage"}
